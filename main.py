@@ -11,3 +11,7 @@ def test_always_returns_true():
 
 def kassidys_functon():
     print("Hello world!")
+
+
+def jeannies_function():
+    print("This is Jeannie")
