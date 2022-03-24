@@ -11,3 +11,4 @@ def test_always_returns_true():
 
 def kassidys_functon():
     print("Hello world!")
+    return True 
